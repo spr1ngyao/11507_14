@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroesForge", "HeroesForge\HeroesForge.csproj", "{CBA783EB-AFEE-4FF5-BA94-97D8ABEC0386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA783EB-AFEE-4FF5-BA94-97D8ABEC0386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA783EB-AFEE-4FF5-BA94-97D8ABEC0386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA783EB-AFEE-4FF5-BA94-97D8ABEC0386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA783EB-AFEE-4FF5-BA94-97D8ABEC0386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
